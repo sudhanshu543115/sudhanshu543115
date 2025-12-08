@@ -40,32 +40,7 @@ With experience in building RESTful APIs, responsive interfaces, and secure auth
 
 ---
 
-## 📌 Featured Projects
 
-### 🎬 **FilmFlixNow – Movie Streaming App (MERN)**
-A fully authenticated, responsive movie streaming platform.
-
-🔹 JWT-based secure authentication  
-🔹 Optimized API calls and database queries  
-🔹 Responsive React UI with animations  
-🔹 Deployed on Vercel  
-
-**Live:** https://filmflixnow.vercel.app/  
-**Repo:** https://github.com/sudhanshu543115/FilmFlixNow2  
-
----
-
-### 🛒 **E-Commerce Platform (MERN)**  
-A complete online shopping platform with admin, product listing, filtering, and user auth.
-
-🔹 REST APIs for cart, user auth, orders  
-🔹 Dynamic product filtering  
-🔹 Tailwind CSS UI  
-🔹 Fully mobile responsive  
-
-**Repo:** https://github.com/sudhanshu543115/E-commerce_Frontend  
-
----
 
 ### 🏫 **Training Centre Website**  
 A clean, responsive website built for a training institute.
