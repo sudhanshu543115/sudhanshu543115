@@ -1,3 +1,6 @@
+<!-- <img width="1690" height="248" alt="SUDHANSHU_DUBEY" src="https://github.com/user-attachments/assets/e77f9f94-ef5a-478e-b6c5-b3ce499b2af1" /> -->
+<img width="5388" height="640" alt="SUDHANSHU_DUBEY (2)" src="https://github.com/user-attachments/assets/9a2b0dc7-2f14-4a08-a347-4043d459781b" />
+
 <h1 align="center">👋 Hi, I'm Sudhanshu Dubey</h1>
 <h3 align="center">🚀 MERN Stack Developer | Full-Stack Web Developer | UI/UX Enthusiast</h3>
 
